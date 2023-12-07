@@ -1,0 +1,85 @@
+Задание:
+Собрать выжимку из 30 вакансий – «требования» и «желательно».
+Прикрепить txt файл.
+
+Требования:
+1.	Python 3.11/ 3.10
+2.	Numpy
+3.	Faststream
+4.	Dash Plotly
+5.	Pytorch
+6.	BI Metabase
+7.	ZMQ
+8.	RabbitMQ (в перспективе переход на NATS JetStream)
+9.	ActiveMQ
+10.	Redis
+11.	Docker (в плане Kubernetes/Pulumi)
+12.	Docker-compose
+13.	Linux
+14.	REST API
+15.	FastAPI
+16.	Celery
+17.	Паттерны ООП
+18.	SQL
+19.	PostgreSQL
+20.	MySQL
+21.	Oracle
+22.	PostgresDB/TimeScaleDB
+23.	Helm
+24.	Git
+25.	CI/CD, желательно на базе GitLab
+26.	Pyspark
+27.	Pandas
+28.	Python 3.7
+29.	HTML/CSS/JS
+30.	Aiohttp
+31.	Flask
+32.	Django
+33.	Django Channels 
+34.	Django Rest Framework
+35.	Django-RQ
+36.	Django ORM
+37.	Angular
+38.	pytest, tox, mock
+39.	Jira
+40.	Confluence
+41.	Clickhouse
+42.	Postman
+43.	Dbeaver
+44.	Bash
+45.	Orthanc
+46.	Dicom
+47.	Nginx
+48.	Dockerfile
+49.	Опыт написания API, работы со swagger, openapi
+50.	Опыт работы с брокером сообщений
+51.	Умение разбираться в чужом коде
+52.	Знания английский на уровне уверенного чтения технической документации и выше.
+Желательно:
+1.	Знание С++
+2.	Опыт работы с Dash plotly
+3.	Знание Go
+4.	Asyncio
+5.	Docker
+6.	Kubernetes
+7.	Опыт работы с ОС семейства Linux
+8.	Знакомство с ML
+9.	React
+10.	TypeScript
+11.	OpenShift
+12.	Celery
+13.	Навык разработки ботов для Telegram
+14.	MongoDB
+15.	SQLAlchemy
+16.	MariaDB
+17.	Flask
+18.	Ruby
+19.	Rails
+20.	Terraform
+21.	Apache Kafka
+22.	Знание методологий разработки (например, Agile, Scrum)
+23.	Django Rest Framework
+24.	Опыт сопровождения проектов с машинным обучением
+25.	Понимание: S3, minio, Sentry, Grafana;
+26.	Опыт с vue.js
+27.	RabbitMQ
