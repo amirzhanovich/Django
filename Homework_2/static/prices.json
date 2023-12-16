@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"id": 1, "name": "COCA COLA SPRITE 1Л", "price": 413, "count": 150},
+    {"id": 2, "name": "PEPSI COLA 1Л", "price": 406, "count": 250},
+    {"id": 3, "name": "COCA COLA FANTA ORANGE 1Л", "price": 426, "count": 454},
+    {"id": 4, "name": "ЧАЙ FUSE TEA МАНГО/АНАНАС 1Л", "price": 400, "count": 255},
+    {"id": 5, "name": "ЧАЙ FUSE TEA ЛИМОН 1Л", "price": 414, "count": 342},
+    {"id": 6, "name": "ЧАЙ LIPTON ICE TEA ЗЕЛ ЧАЙ 1Л", "price": 421, "count": 144}
+  ]
+}
