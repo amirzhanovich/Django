@@ -1,0 +1,13 @@
+{% extends "components/base.html" %}
+{% block main %}
+
+<p>Курсы валют к RUB:</p>
+<ul>
+    <li>1 RUB = {{ exchange_to_kzt }} KZT</li>
+    <li>1 RUB = {{ exchange_to_usd }} USD</li>
+    <li>1 RUB = {{ exchange_to_eur }} EUR</li>
+    <li>1 RUB = {{ exchange_to_cny }} CNY</li>
+
+</ul>
+
+{% endblock main %}
