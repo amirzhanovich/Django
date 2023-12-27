@@ -1,0 +1,12 @@
+{% extends "components/base.html" %}
+{% block main %}
+
+<p>Курсы валют к KZT:</p>
+<ul>
+    <li>{{ exchange_to_usd }}</li>
+    <li>{{ exchange_to_eur }}</li>
+    <li>{{ exchange_to_rub }}</li>
+    <li>{{ exchange_to_cny }}</li>
+</ul>
+
+{% endblock main %}
